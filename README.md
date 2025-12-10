@@ -33,9 +33,11 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | Day | Topic | Notebook | Date |
 |-----|-------|----------|------|
 | 1 | Working with CSV & JSON | [View](Notebooks/Day1-working-with-csv-json.ipynb) | 07/12/2024 |
-| 2 | Coming soon... | - | - |
+| 2 | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2024 |
+| 3 | Univariate Analysis | [View](Notebooks/Day3-univariate-analysis.ipynb) | 09/12/2024 |
+| 4 | Bivariate Analysis | [View](Notebooks/Day4-bivariate-analysis.ipynb) | 10/12/2024 |
 
-**🎯 Completed: 1/100 Days**
+**🎯 Completed: 4/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -67,5 +69,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 07/12/2024
+**Last Updated:** 10/12/2024
 ```
