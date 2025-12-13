@@ -36,6 +36,9 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 2 | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2024 |
 | 3 | Univariate Analysis | [View](Notebooks/Day3-univariate-analysis.ipynb) | 09/12/2024 |
 | 4 | Bivariate Analysis | [View](Notebooks/Day4-bivariate-analysis.ipynb) | 10/12/2024 |
+| 5 | Standardization | [View](Notebooks/Day5-standardization.ipynb) | 11/12/2024 |
+| 6 | Normalization | [View](Notebooks/Day6-normalization.ipynb) | 12/12/2024 |
+| 7 | Ordinal Encoding | [View](Notebooks/Day7-ordinal-encoding.ipynb) | 13/12/2024 |
 
 **🎯 Completed: 4/100 Days**
 
@@ -69,5 +72,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 10/12/2024
+**Last Updated:** 13/12/2024
 ```
