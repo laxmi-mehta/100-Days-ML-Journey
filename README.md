@@ -1,4 +1,5 @@
 # 100-Days-ML-Journey
+
 Daily ML implementation journey - 100 days of coding ML algorithms from scratch using Python | NumPy | Pandas | Scikit-learn
 
 # 🚀 100 Days ML Journey
@@ -12,6 +13,7 @@ Daily hands-on Machine Learning implementation journey - documenting my transiti
 ## 📌 About This Repository
 
 This repository contains **100 days of continuous ML practice** following the [CampusX YouTube course](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH). Each day includes:
+
 - 🎯 **Jupyter Notebook** with hands-on implementation
 - 📊 **Real datasets** for practice
 - 💡 **Key learnings** and insights
@@ -21,6 +23,7 @@ This repository contains **100 days of continuous ML practice** following the [C
 Master Machine Learning fundamentals through consistent daily practice (1 hour/day) and build a portfolio showcasing practical ML implementation skills.
 
 ## 📂 Repository Structure
+
 ```
 100-Days-ML-Journey/
 ├── Notebooks/      # Daily Jupyter notebooks
@@ -30,17 +33,24 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 
 ## 📊 Progress Tracker
 
-| Day | Topic | Notebook | Date |
-|-----|-------|----------|------|
-| 1 | Working with CSV & JSON | [View](Notebooks/Day1-working-with-csv-json.ipynb) | 07/12/2024 |
-| 2 | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2024 |
-| 3 | Univariate Analysis | [View](Notebooks/Day3-univariate-analysis.ipynb) | 09/12/2024 |
-| 4 | Bivariate Analysis | [View](Notebooks/Day4-bivariate-analysis.ipynb) | 10/12/2024 |
-| 5 | Standardization | [View](Notebooks/Day5-standardization.ipynb) | 11/12/2024 |
-| 6 | Normalization | [View](Notebooks/Day6-normalization.ipynb) | 12/12/2024 |
-| 7 | Ordinal Encoding | [View](Notebooks/Day7-ordinal-encoding.ipynb) | 13/12/2024 |
+| Day | Topic                    | Notebook                                                   | Date       |
+| --- | ------------------------ | ---------------------------------------------------------- | ---------- |
+| 1   | Working with CSV & JSON  | [View](Notebooks/Day1-working-with-csv-json.ipynb)         | 07/12/2024 |
+| 2   | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2024 |
+| 3   | Univariate Analysis      | [View](Notebooks/Day3-univariate-analysis.ipynb)           | 09/12/2024 |
+| 4   | Bivariate Analysis       | [View](Notebooks/Day4-bivariate-analysis.ipynb)            | 10/12/2024 |
+| 5   | Standardization          | [View](Notebooks/Day5-standardization.ipynb)               | 11/12/2024 |
+| 6   | Normalization            | [View](Notebooks/Day6-normalization.ipynb)                 | 12/12/2024 |
+| 7   | Ordinal Encoding         | [View](Notebooks/Day7-ordinal-encoding.ipynb)              | 13/12/2024 |
+| 8   | One Hot Encoding         | [View](Notebooks/Day8-one-hot-encoding.ipynb)              | 14/12/2024 |
+| 9   | Column Transformer       | [View](Notebooks/Day9-column-transformer.ipynb)            | 15/12/2024 |
+| 10  | Function Transformer     | [View](Notebooks/Day10-function-transformer.ipynb)         | 16/12/2024 |
+| 11  | Power Transformer        | [View](Notebooks/Day11-power-transformer.ipynb)            | 17/12/2024 |
+| 12  | Binning and Binarization | [View](Notebooks/Day12-binning-and-binarization.ipynb)     | 19/12/2024 |
+| 13  | Handling Mixed Variables | [View](Notebooks/Day13-handling-mixed-variables.ipynb)     | 20/12/2024 |
+| 14  | Handling Date and Time | [View](Notebooks/Day14-handling-date-and-time.ipynb)     | 21/12/2024 |
 
-**🎯 Completed: 4/100 Days**
+**🎯 Completed: 14/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +70,6 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ## 🔗 Resources
 
 - **Course:** [CampusX - 100 Days of ML](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
-- **Reference Repo:** [CampusX Official Repository](https://github.com/campusx-official/100-days-of-machine-learning)
 
 ## 📫 Connect
 
@@ -72,5 +81,8 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 13/12/2024
+**Last Updated:** 21/12/2024
+
+```
+
 ```
