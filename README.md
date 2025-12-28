@@ -49,8 +49,15 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 12  | Binning and Binarization | [View](Notebooks/Day12-binning-and-binarization.ipynb)     | 19/12/2024 |
 | 13  | Handling Mixed Variables | [View](Notebooks/Day13-handling-mixed-variables.ipynb)     | 20/12/2024 |
 | 14  | Handling Date and Time | [View](Notebooks/Day14-handling-date-and-time.ipynb)     | 21/12/2024 |
+| 15  | Mean Median Imputation | [View](Notebooks/Day15-mean-median-imputation.ipynb)     | 22/12/2024 |
+| 16  | Arbitrary Value Imputation | [View](Notebooks/Day16-arbitrary-value-imputation.ipynb)     | 23/12/2024 |
+| 17  | Missing Category Imputation | [View](Notebooks/Day17-missing-category-imputation.ipynb)     | 24/12/2024 |
+| 18  | Frequent Value Imputation | [View](Notebooks/Day18-frequent-value-imputation.ipynb)     | 25/12/2024 |
+| 19  | Missing Indicator | [View](Notebooks/Day19-missing-indicator.ipynb)     | 26/12/2024 |
+| 20  | Automatically Select Imputer Parameters | [View](Notebooks/Day20-automatically-select-imputer-parameters.ipynb)     | 27/12/2024 |
+| 21  | Random Sample Imputation | [View](Notebooks/Day21-random-sample-imputation.ipynb)     | 28/12/2024 |
 
-**🎯 Completed: 14/100 Days**
+**🎯 Completed: 21/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +88,7 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 21/12/2024
+**Last Updated:** 28/12/2024
 
 ```
 
