@@ -35,29 +35,35 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 
 | Day | Topic                    | Notebook                                                   | Date       |
 | --- | ------------------------ | ---------------------------------------------------------- | ---------- |
-| 1   | Working with CSV & JSON  | [View](Notebooks/Day1-working-with-csv-json.ipynb)         | 07/12/2024 |
-| 2   | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2024 |
-| 3   | Univariate Analysis      | [View](Notebooks/Day3-univariate-analysis.ipynb)           | 09/12/2024 |
-| 4   | Bivariate Analysis       | [View](Notebooks/Day4-bivariate-analysis.ipynb)            | 10/12/2024 |
-| 5   | Standardization          | [View](Notebooks/Day5-standardization.ipynb)               | 11/12/2024 |
-| 6   | Normalization            | [View](Notebooks/Day6-normalization.ipynb)                 | 12/12/2024 |
-| 7   | Ordinal Encoding         | [View](Notebooks/Day7-ordinal-encoding.ipynb)              | 13/12/2024 |
-| 8   | One Hot Encoding         | [View](Notebooks/Day8-one-hot-encoding.ipynb)              | 14/12/2024 |
-| 9   | Column Transformer       | [View](Notebooks/Day9-column-transformer.ipynb)            | 15/12/2024 |
-| 10  | Function Transformer     | [View](Notebooks/Day10-function-transformer.ipynb)         | 16/12/2024 |
-| 11  | Power Transformer        | [View](Notebooks/Day11-power-transformer.ipynb)            | 17/12/2024 |
-| 12  | Binning and Binarization | [View](Notebooks/Day12-binning-and-binarization.ipynb)     | 19/12/2024 |
-| 13  | Handling Mixed Variables | [View](Notebooks/Day13-handling-mixed-variables.ipynb)     | 20/12/2024 |
-| 14  | Handling Date and Time | [View](Notebooks/Day14-handling-date-and-time.ipynb)     | 21/12/2024 |
-| 15  | Mean Median Imputation | [View](Notebooks/Day15-mean-median-imputation.ipynb)     | 22/12/2024 |
-| 16  | Arbitrary Value Imputation | [View](Notebooks/Day16-arbitrary-value-imputation.ipynb)     | 23/12/2024 |
-| 17  | Missing Category Imputation | [View](Notebooks/Day17-missing-category-imputation.ipynb)     | 24/12/2024 |
-| 18  | Frequent Value Imputation | [View](Notebooks/Day18-frequent-value-imputation.ipynb)     | 25/12/2024 |
-| 19  | Missing Indicator | [View](Notebooks/Day19-missing-indicator.ipynb)     | 26/12/2024 |
-| 20  | Automatically Select Imputer Parameters | [View](Notebooks/Day20-automatically-select-imputer-parameters.ipynb)     | 27/12/2024 |
-| 21  | Random Sample Imputation | [View](Notebooks/Day21-random-sample-imputation.ipynb)     | 28/12/2024 |
+| 1   | Working with CSV & JSON  | [View](Notebooks/Day1-working-with-csv-json.ipynb)         | 07/12/2025 |
+| 2   | Understanding Data Stats | [View](Notebooks/Day2-understanding-your-data-stats.ipynb) | 08/12/2025 |
+| 3   | Univariate Analysis      | [View](Notebooks/Day3-univariate-analysis.ipynb)           | 09/12/2025 |
+| 4   | Bivariate Analysis       | [View](Notebooks/Day4-bivariate-analysis.ipynb)            | 10/12/2025 |
+| 5   | Standardization          | [View](Notebooks/Day5-standardization.ipynb)               | 11/12/2025 |
+| 6   | Normalization            | [View](Notebooks/Day6-normalization.ipynb)                 | 12/12/2025 |
+| 7   | Ordinal Encoding         | [View](Notebooks/Day7-ordinal-encoding.ipynb)              | 13/12/2025 |
+| 8   | One Hot Encoding         | [View](Notebooks/Day8-one-hot-encoding.ipynb)              | 14/12/2025 |
+| 9   | Column Transformer       | [View](Notebooks/Day9-column-transformer.ipynb)            | 15/12/2025 |
+| 10  | Function Transformer     | [View](Notebooks/Day10-function-transformer.ipynb)         | 16/12/2025 |
+| 11  | Power Transformer        | [View](Notebooks/Day11-power-transformer.ipynb)            | 17/12/2025 |
+| 12  | Binning and Binarization | [View](Notebooks/Day12-binning-and-binarization.ipynb)     | 19/12/2025 |
+| 13  | Handling Mixed Variables | [View](Notebooks/Day13-handling-mixed-variables.ipynb)     | 20/12/2025 |
+| 14  | Handling Date and Time | [View](Notebooks/Day14-handling-date-and-time.ipynb)     | 21/12/2025 |
+| 15  | Mean Median Imputation | [View](Notebooks/Day15-mean-median-imputation.ipynb)     | 22/12/2025 |
+| 16  | Arbitrary Value Imputation | [View](Notebooks/Day16-arbitrary-value-imputation.ipynb)     | 23/12/2025 |
+| 17  | Missing Category Imputation | [View](Notebooks/Day17-missing-category-imputation.ipynb)     | 24/12/2025 |
+| 18  | Frequent Value Imputation | [View](Notebooks/Day18-frequent-value-imputation.ipynb)     | 25/12/2025 |
+| 19  | Missing Indicator | [View](Notebooks/Day19-missing-indicator.ipynb)     | 26/12/2025 |
+| 20  | Automatically Select Imputer Parameters | [View](Notebooks/Day20-automatically-select-imputer-parameters.ipynb)     | 27/12/2025 |
+| 21  | Random Sample Imputation | [View](Notebooks/Day21-random-sample-imputation.ipynb)     | 28/12/2025 |
+| 22  | KNN Imputer | [View](Notebooks/Day22-knn-imputer.ipynb)     | 29/12/2025 |
+| 23  | Iterative Imputer | [View](Notebooks/Day23-iterative-imputer.ipynb)     | 30/12/2025 |
+| 24  | Outlier Removal Using Zscore | [View](Notebooks/Day24-outlier-removal-using-zscore.ipynb)     | 31/12/2025 |
+| 25  | Outlier Removal Using IQR Method | [View](Notebooks/Day25-outlier-removal-using-iqr-method.ipynb)     | 01/01/2026 |
+| 26  | Outlier Removal Using Percentiles | [View](Notebooks/Day26-outlier-detection-using-percentiles.ipynb.ipynb)     | 02/01/2026 |
+| 27  | Feature Construction and Feature Splitting | [View](Notebooks/Day27-feature-construction-and-feature-splitting.ipynb.ipynb)     | 03/01/2026 |
 
-**🎯 Completed: 21/100 Days**
+**🎯 Completed: 27/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -88,7 +94,7 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 28/12/2024
+**Last Updated:** 04/01/2026
 
 ```
 
