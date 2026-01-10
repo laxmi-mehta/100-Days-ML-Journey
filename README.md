@@ -61,9 +61,12 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 24  | Outlier Removal Using Zscore | [View](Notebooks/Day24-outlier-removal-using-zscore.ipynb)     | 31/12/2025 |
 | 25  | Outlier Removal Using IQR Method | [View](Notebooks/Day25-outlier-removal-using-iqr-method.ipynb)     | 01/01/2026 |
 | 26  | Outlier Removal Using Percentiles | [View](Notebooks/Day26-outlier-detection-using-percentiles.ipynb.ipynb)     | 02/01/2026 |
-| 27  | Feature Construction and Feature Splitting | [View](Notebooks/Day27-feature-construction-and-feature-splitting.ipynb.ipynb)     | 03/01/2026 |
+| 27  | Feature Construction and Feature Splitting | [View](Notebooks/Day27-feature-construction-and-feature-splitting.ipynb)     | 03/01/2026 |
+| 28  | Simple Linear Regression | [View](Notebooks/Day28-simple-linear-regression.ipynb)     | 05/01/2026 |
+| 29  | Regression Metrics | [View](Notebooks/Day29-regression-metrics.ipynb)     | 06/01/2026 |
+| 30  | Multiple Regression | [View](Notebooks/Day30-multiple-regression.ipynb)     | 07/01/2026 |
 
-**🎯 Completed: 27/100 Days**
+**🎯 Completed: 30/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -94,7 +97,7 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 04/01/2026
+**Last Updated:** 07/01/2026
 
 ```
 
