@@ -65,8 +65,17 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 28  | Simple Linear Regression | [View](Notebooks/Day28-simple-linear-regression.ipynb)     | 05/01/2026 |
 | 29  | Regression Metrics | [View](Notebooks/Day29-regression-metrics.ipynb)     | 06/01/2026 |
 | 30  | Multiple Regression | [View](Notebooks/Day30-multiple-regression.ipynb)     | 07/01/2026 |
+| 31  | Gradient Descent | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day31-gradient-descent-step-by-step.ipynb)     | 09/01/2026 |
+| 32  | Gradient Descent-3D | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day32-gradient-descent-3d.ipynb)     | 10/01/2026 |
+| 33  | Gradient Descent Animation(m-and-b) | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day33-gradient-descent-animation(both-m-and-b).ipynb)     | 11/01/2026 |
+| 34  | Gradient Descent Animation(b) | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day34-gradient-descent-animation(onlyb).ipynb)     | 12/01/2026 |
+| 35  | Gradient Descent From Scratch | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day35-gradient-descent-code-from-scratch.ipynb)     | 13/01/2026 |
 
-**🎯 Completed: 30/100 Days**
+| 36  | Batch Gradient Descent | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day36-batch-gradient-descent.ipynb)     | 16/01/2026 |
+| 37  | Stochastic Gradient Descent Animation | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day37-stochastic-gradient-descent-animation.ipynb)     | 17/01/2026 |
+| 38  | Stochastic Gradient Descent From Scratch | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day38-stochastic-gradient-descent-from-scratch.ipynb)     | 18/01/2026 |
+| 39  | Mini Batch Gradient Descent From Scratch | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day39-mini-batch-gradient-descent-from-scratch.ipynb)     | 19/01/2026 |
+**🎯 Completed: 39/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -97,7 +106,7 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 07/01/2026
+**Last Updated:** 24/01/2026
 
 ```
 
