@@ -70,7 +70,6 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 33  | Gradient Descent Animation(m-and-b) | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day33-gradient-descent-animation(both-m-and-b).ipynb)     | 11/01/2026 |
 | 34  | Gradient Descent Animation(b) | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day34-gradient-descent-animation(onlyb).ipynb)     | 12/01/2026 |
 | 35  | Gradient Descent From Scratch | [View](Notebooks/Gradient%20Descent%20Day31-Day35/Day35-gradient-descent-code-from-scratch.ipynb)     | 13/01/2026 |
-
 | 36  | Batch Gradient Descent | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day36-batch-gradient-descent.ipynb)     | 16/01/2026 |
 | 37  | Stochastic Gradient Descent Animation | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day37-stochastic-gradient-descent-animation.ipynb)     | 17/01/2026 |
 | 38  | Stochastic Gradient Descent From Scratch | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day38-stochastic-gradient-descent-from-scratch.ipynb)     | 18/01/2026 |
@@ -107,7 +106,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 🔔 **Watch to follow my daily ML journey!**
 
 **Last Updated:** 24/01/2026
-
-```
 
 ```
