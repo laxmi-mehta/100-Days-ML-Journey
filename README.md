@@ -74,7 +74,14 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 37  | Stochastic Gradient Descent Animation | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day37-stochastic-gradient-descent-animation.ipynb)     | 17/01/2026 |
 | 38  | Stochastic Gradient Descent From Scratch | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day38-stochastic-gradient-descent-from-scratch.ipynb)     | 18/01/2026 |
 | 39  | Mini Batch Gradient Descent From Scratch | [View](Notebooks/Types%20of%20Gradient%20Descent%20Day36-Day39/Day39-mini-batch-gradient-descent-from-scratch.ipynb)     | 19/01/2026 |
-**🎯 Completed: 39/100 Days**
+| 40  | Polynomial Regression | [View](Notebooks/Day40-polynomial-regression.ipynb)     | 20/01/2026 |
+| 41  | Ridge Regularization | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day41-ridge-regularization.ipynb)     | 21/01/2026 |
+| 42  | Ridge Regression From Scratch(m-and-b) | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day42-ridge-regression-from-scratch-m-and-b.ipynb)     | 22/01/2026 |
+| 43  | Ridge Regression From Scratch | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day43-ridge-regression-from-scratch.ipynb)     | 23/01/2026 |
+| 44  | Ridge Regression Gradient Descent | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day44-ridge-regression-gradient-descent.ipynb)     | 24/01/2026 |
+| 45  | Ridge Regression Key Understandings | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day45-ridge-regression-key-understandings.ipynb)     | 25/01/2026 |
+
+**🎯 Completed: 45/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -105,6 +112,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 24/01/2026
+**Last Updated:** 25/01/2026
 
-```
