@@ -80,8 +80,13 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 43  | Ridge Regression From Scratch | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day43-ridge-regression-from-scratch.ipynb)     | 23/01/2026 |
 | 44  | Ridge Regression Gradient Descent | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day44-ridge-regression-gradient-descent.ipynb)     | 24/01/2026 |
 | 45  | Ridge Regression Key Understandings | [View](Notebooks/Regularized%20Linear%20Models%20Day41-Day45/Day45-ridge-regression-key-understandings.ipynb)     | 25/01/2026 |
+| 46  | Lasso Regression Demo | [View](Notebooks/Day46-lasso-regression-demo.ipynb)     | 27/01/2026 |
+| 47  | Elastic Net Regression | [View](Notebooks/Day47-elastic-net-regression.ipynb)     | 28/01/2026 |
+| 48  | Gradient Descent (Logistic Regression) | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day48-gradient-descent.ipynb)     | 30/01/2026 |
+| 49  | Perceptron Trick Sigmoid | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day49-perceptron-trick-sigmoid.ipynb)     | 31/01/2026 |
+| 50  | Perceptron Trick | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day50-perceptron-trick.ipynb)     | 31/01/2026 |
 
-**🎯 Completed: 45/100 Days**
+**🎯 Completed: 50/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -112,5 +117,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 25/01/2026
+**Last Updated:** 06/02/2026
 
