@@ -86,7 +86,14 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 49  | Perceptron Trick Sigmoid | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day49-perceptron-trick-sigmoid.ipynb)     | 31/01/2026 |
 | 50  | Perceptron Trick | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day50-perceptron-trick.ipynb)     | 31/01/2026 |
 
-**🎯 Completed: 50/100 Days**
+| 51  | Classification Metrics Binary | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day51-classification-metrics-binary.ipynb)     | 02/02/2026 |
+| 52  | Classification Metrics Multi Iris1 | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day52-classification-metrics-multi-iris1.ipynb)     | 03/02/2026 |
+| 53  | Classification Metrics Multi Mnist1 | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day53-classification-metrics-multi-mnist1.ipynb)     | 05/02/2026 |
+| 54  | Polynomial Logistic Regression | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day54-polynomial-logistic-regression.ipynb)     | 07/02/2026 |
+| 55  | Softmax Demo | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day55-softmax-demo.ipynb)     | 08/02/2026 |
+| 56  | Streamlit Viz Tool | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day56-streamlit-viz-tool.py)     | 10/02/2026 |
+
+**🎯 Completed: 56/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -117,5 +124,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 06/02/2026
+**Last Updated:** 14/02/2026
 
