@@ -85,15 +85,21 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 48  | Gradient Descent (Logistic Regression) | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day48-gradient-descent.ipynb)     | 30/01/2026 |
 | 49  | Perceptron Trick Sigmoid | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day49-perceptron-trick-sigmoid.ipynb)     | 31/01/2026 |
 | 50  | Perceptron Trick | [View](Notebooks/Logistic%20Regression%20Day48-Day50/Day50-perceptron-trick.ipynb)     | 31/01/2026 |
-
 | 51  | Classification Metrics Binary | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day51-classification-metrics-binary.ipynb)     | 02/02/2026 |
 | 52  | Classification Metrics Multi Iris1 | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day52-classification-metrics-multi-iris1.ipynb)     | 03/02/2026 |
 | 53  | Classification Metrics Multi Mnist1 | [View](Notebooks/Classification%20Metrics%20Day51-Day53/Day53-classification-metrics-multi-mnist1.ipynb)     | 05/02/2026 |
 | 54  | Polynomial Logistic Regression | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day54-polynomial-logistic-regression.ipynb)     | 07/02/2026 |
 | 55  | Softmax Demo | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day55-softmax-demo.ipynb)     | 08/02/2026 |
 | 56  | Streamlit Viz Tool | [View](Notebooks/Logistic%20Regression%20Contd%20Day54-Day56/Day56-streamlit-viz-tool.py)     | 10/02/2026 |
+| 57  | Bagging vs Random Forest | [View](Notebooks/Random%20Forest%20Day57-Day59/Day57-bagging_vs_random_forest.ipynb)     | 15/02/2026 |
+| 58  | Code Example Random Forest | [View](Notebooks/Random%20Forest%20Day57-Day59/Day58-code-example-random-forest.ipynb)     | 16/02/2026 |
+| 59  | Feature Importance In Sklearn | [View](Notebooks/Random%20Forest%20Day57-Day59/Day59-feature-importance-in-sklearn.ipynb)     | 18/02/2026 |
+| 60  | How Feature Importance Calculate | [View](Notebooks/Random%20Forest%20Day57-Day59/Day60-how-feature-importance-calculate.ipynb)     | 20/02/2026 |
+| 61  | Oob Score Demo | [View](Notebooks/Random%20Forest%20Day57-Day59/Day61-oob-score-demo.ipynb)     | 22/02/2026 |
+| 62  | Random Forest Demo | [View](Notebooks/Random%20Forest%20Day57-Day59/Day62-random-forest-demo.ipynb)     | 25/02/2026 |
+| 63  | RF Learning Tool | [View](Notebooks/Random%20Forest%20Day57-Day59/Day63-rf-learning-tool.ipynb)     | 28/02/2026 |
 
-**🎯 Completed: 56/100 Days**
+**🎯 Completed: 63/100 Days**
 
 ## 🛠️ Tech Stack
 
@@ -124,5 +130,5 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 ⭐ **Star this repo if you find it helpful!**  
 🔔 **Watch to follow my daily ML journey!**
 
-**Last Updated:** 14/02/2026
+**Last Updated:** 15/03/2026
 
