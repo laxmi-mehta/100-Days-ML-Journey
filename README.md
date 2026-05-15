@@ -98,6 +98,13 @@ Master Machine Learning fundamentals through consistent daily practice (1 hour/d
 | 61  | Oob Score Demo | [View](Notebooks/Random%20Forest%20Day57-Day59/Day61-oob-score-demo.ipynb)     | 22/02/2026 |
 | 62  | Random Forest Demo | [View](Notebooks/Random%20Forest%20Day57-Day59/Day62-random-forest-demo.ipynb)     | 25/02/2026 |
 | 63  | RF Learning Tool | [View](Notebooks/Random%20Forest%20Day57-Day59/Day63-rf-learning-tool.ipynb)     | 28/02/2026 |
+| 64 | AdaBoost Demo | [View](Notebooks/Day64-adaboost-demo.ipynb) | 01/05/2026 |
+| 65 | AdaBoost Hyperparameters | [View](Notebooks/Day65-adaboost-hyperparameters.ipynb) | 03/05/2026 |
+| 66 | Stacking and Blending | [View](Notebooks/Day66-stacking-and-blending.ipynb) | 05/05/2026 |
+| 67 | Gradient Boosting | [View](Notebooks/Day67-gradient-boosting.ipynb) | 08/05/2026 |
+| 68 | KMeans Clustering | [View](Notebooks/Day68-kmeans-clustering.ipynb) | 10/05/2026 |
+| 69 | KNN Algorithm | [View](Notebooks/Day69-knn-algorithm.ipynb) | 12/05/2026 |
+| 70 | ROC AUC | [View](Notebooks/Day70-roc-auc.ipynb) | 15/05/2026 |
 
 **🎯 Completed: 63/100 Days**
 
